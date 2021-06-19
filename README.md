@@ -1,4 +1,4 @@
-# YouTube-Projects-
-All my YouTube content and their codes
+# YouTube-Projects
+All in one my YouTube content and their codes
 
 
