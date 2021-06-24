@@ -1,13 +1,14 @@
-
 import sys
 import time
-import numpy
 
 from screen_recorder_sdk import screen_recorder
 
 def main ():
+    
     hours = int(input("enter : "))
     seconds = int(input("enter : "))
+    
+    #enable dev logger
     screen_recorder.enable_dev_log ()
     
     params = screen_recorder.RecorderParams ()
