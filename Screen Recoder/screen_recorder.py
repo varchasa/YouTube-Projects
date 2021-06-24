@@ -1,7 +1,7 @@
 import sys
 import time
 
-from screen_recorder_sdk import screen_recorder
+from screen_recorder_sdk import screen_recorder 
 
 def main ():
     
@@ -17,12 +17,12 @@ def main ():
     screen_recorder.init_resources (params)
     
     #take screenshot and save it 
-    screen_recorder.get_screenshot (5).save ('test_before.png')
+    screen_recorder.get_screenshot (5).save ('sample.png')
     print('Screenshot taken')
     
     #start video recording
     print('Video Started')
-    screen_recorder.start_video_recording ('video1.mp4', 30, 8000000, True)
+    screen_recorder.start_video_recording ('sample.mp4', 30, 8000000, True)
     
     #time limit 
     time.sleep (hours*60+seconds)
