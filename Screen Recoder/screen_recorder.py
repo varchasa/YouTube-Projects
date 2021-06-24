@@ -5,8 +5,8 @@ from screen_recorder_sdk import screen_recorder
 
 def main ():
     
-    hours = int(input("enter : "))
-    seconds = int(input("enter : "))
+    hours = int(input("Hours : "))
+    seconds = int(input("Seconds : "))
     
     #enable dev logger
     screen_recorder.enable_dev_log ()
@@ -18,8 +18,10 @@ def main ():
     
     #take screenshot and save it 
     screen_recorder.get_screenshot (5).save ('test_before.png')
+    print('Screenshot taken')
     
     #start video recording
+    print('Video Started')
     screen_recorder.start_video_recording ('video1.mp4', 30, 8000000, True)
     
     #time limit 
@@ -27,6 +29,7 @@ def main ():
     
     #stop the recording
     screen_recorder.stop_video_recording ()
+    print('Video Stopped')
 
 
 if __name__ == "__main__":
