@@ -10,8 +10,11 @@ All in one my YouTube content and their codes
 |--|--|--|
 |Creating high dimensional Arrays|[Click here](https://www.youtube.com/watch?v=Uxa_Nt1SAWU)|[Click here](https://github.com/numpy)|
 |Numpy Operations|[Click here](https://www.youtube.com/watch?v=R177IqyxUUs)|[Click here](https://github.com/numpy)|
+|Numpy Indexing|[Click here](https://www.youtube.com/watch?v=C0BBLHkUjwU&list=PLV-G_gzcJFAP5zcGokSO7YxYduc_iQvYY&index=3)|[Click here](https://github.com/numpy)|
+|Statistics With Numpy|[Click here](https://www.youtube.com/watch?v=8vFd5qVlLZo&list=PLV-G_gzcJFAP5zcGokSO7YxYduc_iQvYY&index=4)|[Click here](https://github.com/numpy)|
 
 |Shorts|Link|Code|
 |--|--|--|
 |Google search results generator|[Click here](https://www.youtube.com/watch?v=MdwijdtHWOE)|[Click here](https://github.com/varchasa/google-search-results-generator)|
+|Pattern of Pentagons|[Click here](https://www.youtube.com/watch?v=oaLDKKGnjHE)|[Click here](https://github.com/varchasa/YouTube-Projects)|
 
