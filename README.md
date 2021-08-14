@@ -5,6 +5,8 @@ All in one my YouTube content and their codes
 |--|--|--|
 |Drawing Patterns using Turtle|[Click here](https://www.youtube.com/watch?v=JWSXhKefmNI)|[Click here](https://github.com/varchasa/YouTube-Projects/tree/main/Patterns-Turtle/Patterns-Turtle-main)|
 |Recording Screen using Python|[Click here](https://www.youtube.com/watch?v=kp7LZ2u6Yfc)|[Click here](https://github.com/varchasa/YouTube-Projects/tree/main/Screen%20Recoder)|
+|All in one Python resources|[Click here](https://www.youtube.com/watch?v=MKBKT95Pu04)|[Click here](https://github.com/varchasa/Python-Resources-Hub)|
+|Debug python program in more effective manner|[Click here](https://www.youtube.com/watch?v=vYQ81VzdZGc&t=1s)|[Click here](https://github.com/varchasa/YouTube-Projects/tree/main/degugging-Icecream)|
 
 |Playlist - Numpy|Link|Code|
 |--|--|--|
