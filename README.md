@@ -19,4 +19,4 @@ All in one my YouTube content and their codes
 |--|--|--|
 |Google search results generator|[Click here](https://www.youtube.com/watch?v=MdwijdtHWOE)|[Click here](https://github.com/varchasa/google-search-results-generator)|
 |Pattern of Pentagons|[Click here](https://www.youtube.com/watch?v=oaLDKKGnjHE)|[Click here](https://github.com/varchasa/YouTube-Projects)|
-
+|Debug your python program|[Click here](https://www.youtube.com/watch?v=Aw0JFdif2KE)|[Click here](https://github.com/varchasa/YouTube-Projects)|
